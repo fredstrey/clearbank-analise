@@ -1,0 +1,26 @@
+id,data,cliente_id,tipo,valor,descricao,categoria
+1,2026-01-05,CLI001,credito,3500.00,Salario janeiro,salario
+2,2026-01-12,CLI002,debito,180.50,Supermercado,compra
+3,2026-01-18,CLI001,debito,1200.00,Aluguel,moradia
+4,2026-01-25,CLI003,credito,12500.00,Bonus anual,salario
+5,2026-01-28,CLI002,debito,89.90,Streaming,assinatura
+6,2026-02-03,CLI001,credito,3500.00,Salario fevereiro,salario
+7,2026-02-10,CLI003,debito,450.00,Conta de luz,conta
+8,2026-02-14,CLI002,credito,15000.00,Transferencia recebida,transferencia
+9,2026-02-18,CLI001,debito,320.00,Farmacia,compra
+10,2026-02-22,CLI003,debito,99.90,Streaming,assinatura
+11,2026-03-01,CLI001,credito,3500.00,Salario marco,salario
+12,2026-03-08,CLI002,debito,760.00,Mercado mensal,compra
+13,2026-03-15,CLI003,credito,2200.00,Freelance,transferencia
+14,2026-03-20,CLI001,debito,1200.00,Aluguel,moradia
+15,2026-03-27,CLI002,debito,230.45,Restaurante,compra
+16,2026-04-02,CLI003,credito,3800.00,Salario abril,salario
+17,2026-04-09,CLI001,debito,540.00,Internet e telefone,conta
+18,2026-04-15,CLI002,debito,11200.00,Compra de carro usado,compra
+,2026-04-20,CLI001,debito,150.00,Linha sem id,compra
+abc,2026-04-21,CLI002,credito,200.00,Id nao numerico,salario
+21,2026-04-22,,debito,200.00,Cliente vazio,transferencia
+22,20-04-2026,CLI003,debito,75.00,Data mal formatada,compra
+23,2026-04-23,CLI001,pix,500.00,Tipo invalido,transferencia
+24,2026-04-24,CLI002,debito,abc,Valor nao numerico,compra
+25,2026-04-25,CLI003,credito,-50.00,Valor negativo,salario
